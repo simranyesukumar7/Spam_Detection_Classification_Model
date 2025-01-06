@@ -48,9 +48,15 @@ Assessing model performance using metrics like accuracy, precision, recall, F1-s
 To run this project, install the following dependencies:
 
 Python 3.7+
-NumPy
+
 Pandas
+
 Scikit-learn
+
 NLTK
+
 Matplotlib
+
 WordCloud
+
+Seaborn
