@@ -11,10 +11,13 @@ We use the SMS Spam Collection Dataset, a popular dataset available on Kaggle. I
 Dataset Link: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data)
 
 **Features:**
+
 Target Variable: Target label (spam or ham)
+
 Text: Message content
 
 **Problem Statement 💡**
+
 The objective is to:
 
 Preprocess the text data to make it suitable for machine learning.
@@ -23,6 +26,7 @@ Evaluate the model's performance on a test dataset.
 Build a tool capable of predicting whether a new SMS message is spam or not.
 
 **Workflow 🚀**
+
 1. Data Preprocessing and Exploratory Data Analysis:
 
 Cleaning and tokenizing text.
@@ -40,6 +44,7 @@ Assessing model performance using metrics like accuracy, precision, recall, F1-s
 
 
 **Requirements 🛠️**
+
 To run this project, install the following dependencies:
 
 Python 3.7+
