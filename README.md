@@ -1,6 +1,3 @@
-
-Here’s a rewritten version formatted for a GitHub README file:
-
 SMS Spam Detection Using Machine Learning 📱📊
 Overview
 This project focuses on building a machine learning model to classify SMS messages as either spam or ham (non-spam). By leveraging various machine learning algorithms, the model aims to accurately predict whether an SMS message is spam based solely on its content.
